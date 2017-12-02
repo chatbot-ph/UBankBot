@@ -1,0 +1,6 @@
+{
+  "name": "UBankBot",
+  "description": "Webhook for Union Bank chatbot",
+  "repository": "https://github.com/robertrita/UBankBot.git",
+  "keywords": ["Webhook", "chatbot"]
+}
